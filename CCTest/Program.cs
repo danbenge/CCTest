@@ -9,6 +9,8 @@ namespace CCTest
     {
         static void Main(string[] args)
         {
+            string myString = 5;
+
             Console.WriteLine("Hello World Whoo hoo!");
         }
     }
