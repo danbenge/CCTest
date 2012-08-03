@@ -1,0 +1,5 @@
+C:\Users\ncidev\Desktop\PracticeProjects\CCTest\CCTest\bin\Debug\CCTest.exe
+C:\Users\ncidev\Desktop\PracticeProjects\CCTest\CCTest\bin\Debug\CCTest.pdb
+C:\Users\ncidev\Desktop\PracticeProjects\CCTest\CCTest\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ncidev\Desktop\PracticeProjects\CCTest\CCTest\obj\x86\Debug\CCTest.exe
+C:\Users\ncidev\Desktop\PracticeProjects\CCTest\CCTest\obj\x86\Debug\CCTest.pdb
