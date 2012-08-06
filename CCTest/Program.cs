@@ -9,7 +9,7 @@ namespace CCTest
     {
         static void Main(string[] args)
         {
-            string myString = "hello world";
+            string myString = "hello changes";
 
             Console.WriteLine(myString);
         }
